@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.world {
+  height: 95vh;
+}
 
 .App-logo {
   height: 40vmin;
